@@ -1,2 +1,2 @@
-# Class28
-Angry birds mouse dragged and released
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
